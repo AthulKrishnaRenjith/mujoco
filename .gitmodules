@@ -1,3 +1,9 @@
 [submodule "mujoco_playground"]
 	path = mujoco_playground
 	url = https://github.com/google-deepmind/mujoco_playground.git
+[submodule "booster_deploy"]
+	path = booster_deploy
+	url = https://github.com/BoosterRobotics/booster_deploy.git
+[submodule "booster_assets"]
+	path = booster_assets
+	url = https://github.com/BoosterRobotics/booster_assets.git
