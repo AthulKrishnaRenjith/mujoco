@@ -1,0 +1,3 @@
+[submodule "mujoco_playground"]
+	path = mujoco_playground
+	url = https://github.com/google-deepmind/mujoco_playground.git
