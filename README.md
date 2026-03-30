@@ -41,7 +41,7 @@ Training was run for 300M steps, though this and other parameters (number of env
 
 ```
 
-uv --no-config run train-jax-ppo --helpful
+uv --no-config run train-jax-ppo --helpfull
 ```
 
 - Visualisation & Testing
