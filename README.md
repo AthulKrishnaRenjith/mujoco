@@ -84,7 +84,7 @@ Control: Subscribes to /cmd_vel (geometry_msgs/Twist).
 
 ## Sim-to-Sim Demo
 
-![Webots demo](assets/webots_demo.mp4)
+![Webots demo](assets/webots_demo.gif)
 
 
 
