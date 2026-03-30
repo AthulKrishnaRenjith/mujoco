@@ -52,3 +52,4 @@ CATKIN_IGNORE
 
 commands.txt
 .setup_env
+.vscode/
